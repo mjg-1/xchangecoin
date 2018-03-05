@@ -14,3 +14,4 @@ Decentralized cryptocurrency exchange source code @ https://github.com/bank2bank
 currently the xchangecoin project homepage is found on github. Thank you github for your continued support of open source projects.
 
 https://github.com/xchangecoin
+https://gist.github.com/studio666/fb0c6d2c40e5241d74c4a442b5fad516
