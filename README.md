@@ -17,27 +17,3 @@ https://github.com/xchangecoin
 
 https://gist.github.com/studio666/fb0c6d2c40e5241d74c4a442b5fad516
 
-############ links ############
-https://github.com/xchangecoin/bitsquare
-https://github.com/xchangecoin/XChange
-https://github.com/xchangecoin/web3.py
-
-https://github.com/xchangecoin/lightning
-https://github.com/xchangecoin/lightning-onion
-https://github.com/xchangecoin/electrum-xvg-tor
-https://github.com/xchangecoin/electrum-xvg-i2p
-https://github.com/xchangecoin/lightning-xchain-atomic-swap
-
-https://github.com/xchangecoin/ethatomicswap
-
-https://github.com/xchangecoin/atomicswap
-https://blog.decred.org/2017/09/20/On-Chain-Atomic-Swaps/ngecoin/atomicswap
-
-https://github.com/xchangecoin/BarterDEX
-https://github.com/xchangecoin/EasyDEX-GUI
-https://github.com/xchangecoin/0x.js
-
-https://github.com/xchangecoin/wickr-crypto-c
-https://github.com/xchangecoin/OpenBazaar-Server
-
-https://github.com/xchangecoin/ico
