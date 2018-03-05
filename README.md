@@ -3,7 +3,7 @@ FAQ
 1) xchangecoin and xchanged are not directly part of the XChangeCoin project.
 2) xchangecoin and xchanged are offsets of the Tashcoin and kashcoin projects
 
-xchangecoin design goals include private p2p exchange of cryptocurrency
+xchangecoin design goals include private p2p exchange of cryptocurrency and the design of a best of breed cryptocurrency compatible with the lightening network and atomic swaps
 
 project inspirations include Bitcoin, VERGE, Decred, Vertcoin, Monero, Dash and Aeon
 
