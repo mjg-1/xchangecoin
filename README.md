@@ -1,6 +1,6 @@
 Welcome to the xchangecoin and xchanged project.
 FAQ
-1) xchangecoin and xchanged are not directly part of the XChangeCoin project.
+1) xchangecoin and xchanged are similar to but not directly connected to the uppercase XChangeCoin project.
 2) xchangecoin and xchanged are offsets of the Tashcoin @ https://github.com/xchangecoin/tashcoin and kashcoin @  https://github.com/tashcoin projects
 
 xchangecoin design goals include private p2p exchange of cryptocurrency and the design of a best of breed cryptocurrency compatible with the lightening network and atomic swaps
